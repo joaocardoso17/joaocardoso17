@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+IA+em+forma%C3%A7%C3%A3o;Machine+Learning+%7C+Vis%C3%A3o+Computacional;Construindo+sistemas+que+pensem...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+IA+em+forma%C3%A7%C3%A3o;Machine+Learning+%7C+Vis%C3%A3o+Computacional;Construindo+sistemas+que+pensem...)
 
 </div>
 
