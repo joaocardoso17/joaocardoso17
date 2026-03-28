@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Loannes&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20em%20Formação%20·%20AI%20%26%20Automation&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
+
 ---
 
 <div align="center">
