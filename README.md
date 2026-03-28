@@ -40,15 +40,15 @@ Acredito que a combinação de **IA + automação + boas práticas de desenvolvi
 O curso é estruturado em **5 módulos progressivos**, cada um com nanocertificação independente:
 
 ```
-Módulo 1 · Módulo IA        ██████████  ✅  Em andamento
+Módulo 1 · Módulo IA  ✅  Em andamento
   ├─ Machine Learning
   ├─ Computer Vision
   └─ AI Automation
 
-Módulo 2 · Módulo Front-end    ░░░░░░░░░░  🔒  Próximo
-Módulo 3 · Módulo back-end         ░░░░░░░░░░  🔒  Futuro
-Módulo 4 · Módulo Full-Stack ░░░░░░░░░░  🔒  Futuro
-Módulo 5 · Módulo DevOps          ░░░░░░░░░░  🔒  Futuro
+Módulo 2 · Módulo Front-end  🔒  Próximo
+Módulo 3 · Módulo back-end   🔒  Futuro
+Módulo 4 · Módulo Full-Stack  🔒  Futuro
+Módulo 5 · Módulo DevOps  🔒  Futuro
 ```
 
 ---
