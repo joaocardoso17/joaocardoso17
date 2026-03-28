@@ -1,10 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Loannes&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20em%20Forma%C3%A7%C3%A3o%20%C2%B7%20AI%20%26%20Automation&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bgGrad)"/>
+  <path d="M0,155 C150,115 300,170 450,135 C600,100 750,155 900,125 L900,200 L0,200 Z" fill="#ffffff15"/>
+  <path d="M0,172 C200,138 400,178 600,150 C750,128 850,162 900,148 L900,200 L0,200 Z" fill="#ffffff0a"/>
+  <text x="450" y="92" font-family="Segoe UI, sans-serif" font-size="52" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="3">Loannes</text>
+  <text x="450" y="132" font-family="Segoe UI, sans-serif" font-size="17" fill="#ffffffbb" text-anchor="middle" letter-spacing="1">Desenvolvedor em Formacao  ·  AI &amp; Automation</text>
+</svg>
 
 </div>
-
----
 
 <div align="center">
 
