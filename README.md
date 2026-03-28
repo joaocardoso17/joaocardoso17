@@ -33,15 +33,6 @@ Atualmente no **Módulo 1 do ADS**, que cobre Machine Learning, Computer Vision 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaocardoso17&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocardoso17&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
-</div>
-
----
-
 ## 📬 Contato
 
 <div>
