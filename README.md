@@ -14,7 +14,6 @@
   <text x="450" y="92" font-family="Segoe UI, sans-serif" font-size="52" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="3">Loannes</text>
   <text x="450" y="132" font-family="Segoe UI, sans-serif" font-size="17" fill="#ffffffbb" text-anchor="middle" letter-spacing="1">Desenvolvedor em Formacao  ·  AI &amp; Automation</text>
 </svg>
-
 </div>
 
 <div align="center">
