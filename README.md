@@ -1,94 +1,58 @@
-<div align="center">
+# Olá, sou João Cardoso 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
-</div>
+> **Desenvolvedor Full Stack** com foco em AI Engineering — construindo sistemas inteligentes com LLMs, Visão Computacional e automação de processos.
 
 ---
 
-<div align="center">
+## 🧠 Sobre mim
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaocardoso17)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaocardoso17)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaocardev@gmail.com)
-
-</div>
-
-
-
-## 👨‍💻 Sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Ceuma** (São Luís, MA), com foco em **Inteligência Artificial, automação e desenvolvimento de software**. Minha trajetória começou na INCODE Tech School e hoje estou construindo, passo a passo, uma base técnica sólida para atuar com tecnologia de impacto.
-
-Acredito que a combinação de **IA + automação + boas práticas de desenvolvimento** é o caminho para criar soluções que realmente fazem diferença. Estou comprometido com aprendizado contínuo e com a construção de uma carreira consistente na área de tech.
-
-> *"Build in public. Learn out loud. Ship consistently."*
+- 🤖 Apaixonado por **LLMs e AI Agents** aplicados a problemas reais
+- 🔁 Automatizando fluxos de trabalho com **n8n** para conectar sistemas e ganhar eficiência
+- 📊 Aplicando **Machine Learning** e **Análise de Dados** para extrair insights
+- 👁️ Desenvolvendo pipelines de **Visão Computacional** para soluções práticas
+- 🌎 Baseado no **Brasil** · Aberto a freelance e oportunidades remotas
 
 ---
 
-## 🎓 Formação & Certificações
-
-| Instituição | Curso / Certificação | Status |
-|---|---|---|
-| 🏛️ Universidade Ceuma | ADS — Análise e Desenvolvimento de Sistemas | 🟢 Em andamento |
-| 🏫 INCODE Tech School | Formação em Tecnologia | ✅ Concluído |
-| 🤖 Alura | Imersão Dev com Google Gemini | ✅ Concluído |
-| 🎓 Even3 | AcademIA CEUMA | ✅ Concluído |
-
----
-
-## 🗺️ Roadmap — Curso ADS (Ceuma)
-
-O curso é estruturado em **5 módulos progressivos**, cada um com nanocertificação independente:
-
-```
-Módulo 1 · Módulo IA  ✅  Em andamento
-  ├─ Machine Learning
-  ├─ Computer Vision
-  └─ AI Automation
-
-Módulo 2 · Módulo Front-end  🔒  Próximo
-Módulo 3 · Módulo back-end   🔒  Futuro
-Módulo 4 · Módulo Full-Stack  🔒  Futuro
-Módulo 5 · Módulo DevOps  🔒  Futuro
-```
-
----
-
-## 🛠️ Stack Técnica
+## 🛠️ Stack de Tecnologias
 
 **Linguagens**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**IA & Automação**
+**IA / ML**
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**Ferramentas & Plataformas**
+**Automação**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
----
+**Ferramentas**
 
-## 🎯 Objetivos para 2026
-
-- [ ] Concluir o **Módulo 1** do ADS com nanocertificação em IA
-- [ ] Publicar projetos práticos de **ML e Computer Vision**
-- [ ] Atingir **500+ conexões** no LinkedIn
-- [ ] Contribuir para projetos **open source**
-- [ ] Construir um portfólio técnico sólido no GitHub
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-<div align="center">
+## 📊 Estatísticas do GitHub
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=joaocardoso17&theme=tokyonight&hide_border=true)
 
-</div>
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaocardoso17)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joaocardev@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joaocardoso17&style=flat-square&color=6366f1&label=visualizações+do+perfil" />
+</p>
+
