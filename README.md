@@ -1,58 +1,65 @@
-# Olá, sou João Cardoso 👋
-
-> **Desenvolvedor Full Stack** com foco em AI Engineering — construindo sistemas inteligentes com LLMs, Visão Computacional e automação de processos.
-
----
-
-## 🧠 Sobre mim
-
-- 🤖 Apaixonado por **LLMs e AI Agents** aplicados a problemas reais
-- 🔁 Automatizando fluxos de trabalho com **n8n** para conectar sistemas e ganhar eficiência
-- 📊 Aplicando **Machine Learning** e **Análise de Dados** para extrair insights
-- 👁️ Desenvolvendo pipelines de **Visão Computacional** para soluções práticas
-- 🌎 Baseado no **Brasil** · Aberto a freelance e oportunidades remotas
+<!-- Banner animado -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=João%20Cardoso&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20progress%20🚀&descAlignY=55&descAlign=50" width="100%"/>
+</div>
 
 ---
 
-## 🛠️ Stack de Tecnologias
+## 👾 Quem sou eu?
 
-**Linguagens**
+```python
+dev = {
+    "nome":     "João Cardoso",
+    "curso":    "Análise e Desenvolvimento de Sistemas",
+    "foco":     ["Desenvolvimento Web", "Inteligência Artificial"],
+    "modo":     "Full Stack em formação 🛠️",
+    "offline":  ["cultura geek 🎮🎬", "explorar novas tecnologias 🔭"],
+}
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**IA / ML**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**Automação**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-**Ferramentas**
-
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+> *"Transformando ideias em código desde que entrei na faculdade."* 🧠
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🛠️ Meu arsenal
 
-![GitHub Streak](https://streak-stats.demolab.com?user=joaocardoso17&theme=tokyonight&hide_border=true)
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/Inteligência%20Artificial-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
 
 ---
 
-## 📬 Contato
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaocardoso17)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joaocardev@gmail.com)
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocardoso17&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaocardoso17&theme=tokyonight" alt="streak stats"/>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaocardoso17&style=flat-square&color=6366f1&label=visualizações+do+perfil" />
-</p>
+## 📡 Onde me achar?
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaocardoso-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaocardev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaocardoso17)
+
+</div>
+
+---
+
+<!-- Footer animado -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer" width="100%"/>
+</div>
