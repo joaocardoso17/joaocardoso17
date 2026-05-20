@@ -35,18 +35,6 @@ dev = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocardoso17&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaocardoso17&theme=tokyonight" alt="streak stats"/>
-</div>
-
----
-
 ## 📡 Onde me achar?
 
 <div align="center">
