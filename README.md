@@ -65,10 +65,6 @@ missão_atual: transformar estudo em projeto, projeto em portfólio
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/joaocardoso17/joaocardoso17/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 <p data-importer="text" align="center">obrigado por passar por aqui — próximo capítulo em breve.</p>
 
 ###
