@@ -1,101 +1,108 @@
 <div align="center">
 
-<!-- Animação de digitação no título -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Jo%C3%A3o+Cardoso+%F0%9F%91%8B;Full+Stack+in+progress+%F0%9F%9A%80;Apaixonado+por+Web+%26+IA+%F0%9F%A4%96)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1C2C,100:302B63&height=220&section=header&text=Jo%C3%A3o%20Cardoso&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=full-stack%20developer%20em%20constru%C3%A7%C3%A3o&descAlignY=55&descSize=18&animation=fadeIn" />
 
-<!-- Badge de status -->
-<img src="https://img.shields.io/badge/Status-Aberto%20para%20oportunidades-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white"/>
-<img src="https://img.shields.io/badge/Foco-Full%20Stack%20%2B%20IA-7C3AED?style=for-the-badge"/>
+<br>
 
-<!-- Contador de visitas -->
-![Visitor Count](https://komarev.com/ghpvc/?username=joaocardoso17&color=7C3AED&style=for-the-badge&label=Visitantes)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6C63A6&center=true&vCenter=true&width=560&lines=full-stack+developer;ci%C3%A9filo+de+carteirinha;gamer+nas+horas+vagas;otaku+de+fim+de+semana" alt="typing" />
+
+<br>
+
+<a  href="https://linkedin.com/in/joaocardoso-dev" target="_blank" rel="noopenernoreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-joaocardoso--dev-6C63A6?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
----
+<br>
 
-## 🤖 Quem sou eu?
+## 🖋️ sobre
 
-```json
-{
-  "nome":     "João Cardoso",
-  "curso":    "Análise e Desenvolvimento de Sistemas",
-  "foco":     ["Desenvolvimento Web", "Inteligência Artificial"],
-  "modo":     "Full Stack em formação 🔧",
-  "offline":  ["cultura geek 🎮🎬", "explorar novas tecnologias 🔭"],
-  "status":   "Transformando ideias em código desde que entrei na faculdade 🧠"
-}
+Sou João — desenvolvedor generalista, curioso por natureza, aprendendo a construir coisas que funcionem bem e pareçam simples, mesmo quando não são.
+
+Fora do código, minha imaginação vive dividida entre três telas: a do cinema, a do console e a do anime da vez. Talvez por isso eu goste tanto de pensar em software como narrativa — todo sistema tem um começo, um conflito e, se você fizer certo, uma resolução elegante.
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F1C2C,100:302B63&height=3&width=800" />
+</div>
+
+<br>
+
+## 🧠 stack
+
+<div align="center">
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,py&theme=dark&perline=5" />
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="200"><b>✅ consolidado</b></td>
+<td><code>HTML</code> &nbsp; <code>CSS</code> &nbsp; <code>JavaScript</code></td>
+</tr>
+<tr>
+<td align="center"><b>🔄 em estudo</b></td>
+<td><code>Java</code> &nbsp; <code>Python</code></td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F1C2C,100:302B63&height=3&width=800" />
+</div>
+
+<br>
+
+## 🎮 save file
+
+```yaml
+personagem: João Cardoso
+classe: Full-stack Developer
+nível: generalista em ascensão
+inventário:
+  - lógica de programação
+  - curiosidade quase excessiva
+  - playlist de trilhas sonoras de filme pra codar
+missão_atual: transformar estudo em projeto, projeto em portfólio
 ```
 
-> *"Transformando ideias em código desde que entrei na faculdade."* 🧠
+<br>
 
----
-
-## 🛠️ Meu Arsenal
-
-### 🌐 Front-end
-<div align="left">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-</div>
-
-### ⚙️ Back-end & IA
-<div align="left">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</div>
-
-### 🗄️ Ferramentas & Outros
-<div align="left">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
+## 🍿 fora do teclado
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=joaocardoso17&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED)](https://git.io/streak-stats)
+<img src="https://img.shields.io/badge/-Games-1F1C2C?style=for-the-badge&logo=playstation&logoColor=white" />
+<img src="https://img.shields.io/badge/-Filmes-302B63?style=for-the-badge&logo=imdb&logoColor=white" />
+<img src="https://img.shields.io/badge/-Animes-6C63A6?style=for-the-badge&logo=crunchyroll&logoColor=white" />
 
 </div>
 
----
-
-## 📈 Atividade
+<br>
 
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaocardoso17&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F1C2C,100:302B63&height=3&width=800" />
 </div>
 
----
+<br>
 
-## 📫 Onde me achar?
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaocardoso-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaocardev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaocardoso17)
-
-</div>
-
----
+## 📊 métricas
 
 <div align="center">
 
-⭐ *Se algum projeto te ajudou, deixa uma estrela — faz diferença!* ⭐
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaocardoso-dev&hide_border=true&background=00000000&ring=6C63A6&fire=6C63A6&currStreakLabel=6C63A6&sideLabels=b3b3b3&currStreakNum=b3b3b3&sideNums=b3b3b3&dates=666666" width="48%" />
 
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:302B63,100:1F1C2C&height=120&section=footer" />
+
+<div align="center">
+<sub>obrigado por passar por aqui — próximo capítulo em breve.</sub>
 </div>
