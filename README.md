@@ -1,108 +1,74 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1C2C,100:302B63&height=220&section=header&text=Jo%C3%A3o%20Cardoso&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=full-stack%20developer%20em%20constru%C3%A7%C3%A3o&descAlignY=55&descSize=18&animation=fadeIn" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6C63A6&center=true&vCenter=true&width=560&lines=full-stack+developer;ci%C3%A9filo+de+carteirinha;gamer+nas+horas+vagas;otaku+de+fim+de+semana" alt="typing" />
-
-<br>
-
-<a  href="https://linkedin.com/in/joaocardoso-dev" target="_blank" rel="noopenernoreferrer">
-<img src="https://img.shields.io/badge/LinkedIn-joaocardoso--dev-6C63A6?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWo1ODMwZGc4bml0ZWVnOTRldTd3b29zMGNzeHQ2bnV2OTNxdDhpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
 </div>
 
-<br>
+###
 
-## 🖋️ sobre
-
-Sou João — desenvolvedor generalista, curioso por natureza, aprendendo a construir coisas que funcionem bem e pareçam simples, mesmo quando não são.
-
-Fora do código, minha imaginação vive dividida entre três telas: a do cinema, a do console e a do anime da vez. Talvez por isso eu goste tanto de pensar em software como narrativa — todo sistema tem um começo, um conflito e, se você fizer certo, uma resolução elegante.
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F1C2C,100:302B63&height=3&width=800" />
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/joaocardoso-dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:joaocardev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
-<br>
+###
 
-## 🧠 stack
+<h1 data-importer="text" align="center">Olá, Mundo! 👋</h1>
 
-<div align="center">
-<br>
+###
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,py&theme=dark&perline=5" />
+<h3 data-importer="text" align="left">👩‍💻  Sobre Mim</h3>
 
-<br><br>
-
-<table>
-<tr>
-<td align="center" width="200"><b>✅ consolidado</b></td>
-<td><code>HTML</code> &nbsp; <code>CSS</code> &nbsp; <code>JavaScript</code></td>
-</tr>
-<tr>
-<td align="center"><b>🔄 em estudo</b></td>
-<td><code>Java</code> &nbsp; <code>Python</code></td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F1C2C,100:302B63&height=3&width=800" />
-</div>
-
-<br>
-
-## 🎮 save file
-
-```yaml
+###
+```
 personagem: João Cardoso
 classe: Full-stack Developer
 nível: generalista em ascensão
 inventário:
   - lógica de programação
   - curiosidade quase excessiva
-  - playlist de trilhas sonoras de filme pra codar
 missão_atual: transformar estudo em projeto, projeto em portfólio
 ```
+###
 
-<br>
+<h3 data-importer="text" align="left">🛠 Linguagens e Ferramentas</h3>
 
-## 🍿 fora do teclado
+###
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/-Games-1F1C2C?style=for-the-badge&logo=playstation&logoColor=white" />
-<img src="https://img.shields.io/badge/-Filmes-302B63?style=for-the-badge&logo=imdb&logoColor=white" />
-<img src="https://img.shields.io/badge/-Animes-6C63A6?style=for-the-badge&logo=crunchyroll&logoColor=white" />
-
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-<br>
+###
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F1C2C,100:302B63&height=3&width=800" />
+<h3 data-importer="text" align="left">🔥   Meus status :</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=joaocardoso17&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<br>
+###
 
-## 📊 métricas
+<img data-importer="snake" src="https://raw.githubusercontent.com/joaocardoso17/joaocardoso17/snake-output/snake.svg" alt="Snake animation" />
 
-<div align="center">
+###
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaocardoso-dev&hide_border=true&background=00000000&ring=6C63A6&fire=6C63A6&currStreakLabel=6C63A6&sideLabels=b3b3b3&currStreakNum=b3b3b3&sideNums=b3b3b3&dates=666666" width="48%" />
+<p data-importer="text" align="center">obrigado por passar por aqui — próximo capítulo em breve.</p>
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:302B63,100:1F1C2C&height=120&section=footer" />
-
-<div align="center">
-<sub>obrigado por passar por aqui — próximo capítulo em breve.</sub>
-</div>
+###
