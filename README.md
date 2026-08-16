@@ -12,6 +12,7 @@ construo estudando, com o código e as decisões de cada um.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaocardoso17&bg_color=0d1117&color=e6edf3&line=8b5cf6&point=ffffff&area=true&hide_border=true" />
 
 ### Onde me achar
+
 <div align=center>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaocardoso-dev)
 
