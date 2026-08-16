@@ -1,46 +1,17 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=160&section=header&text=João %20Cardoso&fontColor=ffffff&fontSize=48&animation=fadeIn" />
 
+Dev Full Stack em formação  focado em Python e Javascript. Aqui ficam os projetos que eu
+construo estudando, com o código e as decisões de cada um.
 
+### Stack
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,100:2b2b2b&height=200&section=header&text=João%20Cardoso&fontSize=50&fontColor=ffffff&animation=fadeIn)
+<img src="https://skillicons.dev/icons?i=py,html,css,js,git,github&perline=8" />
 
+### Contribuições
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaocardoso17&bg_color=0d1117&color=e6edf3&line=8b5cf6&point=ffffff&area=true&hide_border=true" />
 
-</div>
+### Onde me achar
 
-Desenvolvimento com Python, JavaScript e HTML/CSS · buscando minha primeira vaga como Dev Full Stack Júnior
-
-<div align="center">
-
-
-
-![Skills](https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode)
-
-
-
-</div>
-
-<div align="center">
-
-
-
-![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=joaocardoso17&theme=react-dark)
-
-
-
-</div>
-
-<div align="center">
-
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/joaocardoso-dev/)
-[
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:joaocardev@gmail.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaocardoso-dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto: joaocardev@gmail.com)
