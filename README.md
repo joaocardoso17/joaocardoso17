@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=160&section=header&text=%20João+Cardoso&fontColor=ffffff&fontSize=48&animation=fadeIn" />
 
-Dev front-end focado em React e TypeScript. Aqui ficam os projetos que eu
+Dev Full Stack em formação focado em Python e Javascript. Aqui ficam os projetos que eu
 construo estudando, com o código e as decisões de cada um.
 
 ### Stack
