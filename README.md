@@ -5,7 +5,7 @@ construo estudando, com o código e as decisões de cada um.
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=py,html,css,js,git,github&perline=8" />
+<img src="https://skillicons.dev/icons?i=py,html,css,js,git,github,vscode&perline=8" />
 
 ### Contribuições
 
