@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=160&section=header&text=João %20Cardoso&fontColor=ffffff&fontSize=48&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=160&section=header&text=João %20JoãoCardoso&fontColor=ffffff&fontSize=48&animation=fadeIn" />
 
 Dev front-end focado em React e TypeScript. Aqui ficam os projetos que eu
 construo estudando, com o código e as decisões de cada um.
