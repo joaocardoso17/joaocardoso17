@@ -57,11 +57,11 @@ Gosto de transformar o que estudo em projetos práticos, experimentando tecnolog
 
 > Projeto desenvolvido para explorar aplicações práticas de Inteligência Artificial através de uma experiência interativa.
 
-**🔧 Tecnologias:** Python • JavaScript • Gemini API
+**🔧 Tecnologias:** Python • JavaScript • Gemini IA
 
 **🎯 Foco:** Inteligência Artificial aplicada • APIs • Desenvolvimento de aplicações
 
-🔗 **[Ver projeto](COLOQUE_AQUI_O_LINK_DO_REPOSITORIO)**
+🔗 **[Ver projeto](https://conhecebol.vercel.app/)**
 
 <br>
 
