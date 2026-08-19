@@ -1,123 +1,175 @@
-# 👋 Olá, eu sou João Cardoso
+<!-- ========================= HEADER ========================= --><div align="center">👋 Olá, eu sou João Cardoso
 
-### Estudante de ADS | Python & JavaScript | Desenvolvimento Web e IA Aplicada
+💻 Estudante de ADS • Python • JavaScript • Desenvolvimento Web • IA Aplicada
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Ceuma.
+<p>
+  <em>
+    Construindo projetos para transformar aprendizado em aplicações reais.
+  </em>
+</p><br><a href="https://www.linkedin.com/in/joaocardoso-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:joaocardev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://github.com/joaocardoso17">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a></div>---
 
-💻 Atualmente desenvolvendo minhas habilidades em **Python, JavaScript e Desenvolvimento Web**, enquanto exploro aplicações práticas de **Inteligência Artificial**.
+<!-- ========================= SOBRE ========================= -->🧑‍💻 Sobre mim
 
-🚀 Gosto de transformar o que estudo em projetos, experimentando tecnologias, resolvendo problemas e documentando as decisões por trás de cada aplicação.
+🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Ceuma.
 
-🎯 Busco uma oportunidade de **estágio em tecnologia**, especialmente nas áreas de desenvolvimento Python, Web/Full Stack ou Inteligência Artificial.
+💡 Estou construindo minha trajetória em tecnologia através de estudo, prática e projetos, com foco em:
+
+- 🐍 Python
+- ⚡ JavaScript
+- 🌐 Desenvolvimento Web
+- 🤖 Inteligência Artificial aplicada
+
+Gosto de transformar o que estudo em projetos práticos, experimentando tecnologias, resolvendo problemas e documentando não apenas o código, mas também as decisões por trás de cada projeto.
+
+🎯 Atualmente, busco uma oportunidade de estágio em tecnologia, especialmente nas áreas de desenvolvimento Python, Web/Full Stack ou Inteligência Artificial.
 
 ---
 
-## 🧠 Sobre mim
+🚀 Projetos em destaque
 
-Minha trajetória em tecnologia está sendo construída através de uma combinação de **estudo, prática e projetos**.
+<div align="center">🤖 Conhecebol
 
-Entre os projetos que desenvolvi estão:
+Sistema interativo utilizando a API do Google Gemini
 
-* 🤖 **Conhecebol** — sistema interativo utilizando a API do **Google Gemini**.
-* 💧 **AGUA.OPS** — protótipo de gestão operacional desenvolvido para uma empresa de saneamento no Maranhão.
+</div>«Projeto desenvolvido para explorar aplicações práticas de Inteligência Artificial através de uma experiência interativa.»
 
-Também venho aprofundando meus conhecimentos em Inteligência Artificial através de projetos, hackathons e certificações relacionadas a **Agentes de IA** e **Visão Computacional**.
+🔧 Tecnologias: Python • JavaScript • Gemini API
 
-Este GitHub é onde registro parte dessa jornada: **código, experimentos, projetos e aprendizados**.
+🎯 Foco: Inteligência Artificial aplicada • APIs • Desenvolvimento de aplicações
+
+<br><div align="center">💧 AGUA.OPS
+
+Protótipo de gestão operacional para o setor de saneamento
+
+</div>«Solução desenvolvida como protótipo para representar e organizar processos relacionados a uma necessidade operacional real.»
+
+🔧 Tecnologias: "ADICIONAR TECNOLOGIAS REAIS DO PROJETO"
+
+🎯 Foco: Desenvolvimento de software • Solução de problemas • Aplicação prática
+
+<br>«📌 Mais projetos estão sendo desenvolvidos e documentados conforme avanço na minha formação.»
 
 ---
 
-## 🛠️ Tecnologias
+🛠️ Tecnologias & Ferramentas
 
-### Linguagens
+<div align="center">💻 Linguagens
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" /><br><br>
 
-### Ferramentas
+🔧 Ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode" /></div>---
 
-### Foco atual
+🧠 Áreas de interesse
 
-```text
+<table align="center">
+<tr>
+<td align="center" width="180">🐍
+
 Python
-JavaScript
-Desenvolvimento Web
+
+Backend
+Automação
 APIs
-Inteligência Artificial aplicada
-```
+
+</td><td align="center" width="180">🌐
+
+Web
+
+JavaScript
+HTML
+CSS
+
+</td><td align="center" width="180">🤖
+
+IA
+
+Gemini
+Agentes de IA
+IA aplicada
+
+</td><td align="center" width="180">🔌
+
+APIs
+
+Integrações
+Serviços
+Aplicações
+
+</td>
+</tr>
+</table>---
+
+📚 Atualmente estudando
+
+🐍 Python
+⚡ JavaScript
+🌐 Desenvolvimento Web
+🤖 Inteligência Artificial aplicada
+🔌 APIs e integrações
+🧩 Fundamentos de desenvolvimento de software
+
+«Minha abordagem é simples:
+
+Estudar → Construir → Testar → Errar → Melhorar → Documentar»
 
 ---
 
-## 🚀 Projetos em destaque
+🏆 Certificações & experiências
 
-### 🤖 Conhecebol
-
-Sistema interativo desenvolvido utilizando a **API do Google Gemini**.
-
-**Objetivo:** explorar aplicações práticas de Inteligência Artificial através de uma aplicação interativa.
-
-**Tecnologias:** Python, JavaScript, Gemini IA
-
-🔗 [Ver projeto](https://conhecebol.vercel.app/)
+🏅| Certificação / Experiência
+🤖| Building Agentic AI Systems
+🧠| Building AI Agents – Fundamentals to Advanced
+👁️| Computer Vision in Microsoft Azure
+🚀| Hackathon MGest 2026
 
 ---
 
-### 💧 AGUA.OPS
+📈 Minha jornada
 
-Protótipo de uma solução de **gestão operacional** desenvolvido para uma empresa de saneamento no Maranhão.
+<div align="center">🌱 Em construção
 
-**Objetivo:** aplicar tecnologia para representar e organizar processos relacionados a uma necessidade operacional real.
+Aprendizado
+↓
+Projetos
+↓
+Experimentação
+↓
+Documentação
+↓
+Evolução
 
-🔗 [Ver projeto](https://aguaops-transagua.netlify.app/)
+</div>Este perfil representa minha evolução como desenvolvedor.
 
----
-
-## 📚 Atualmente estudando
-
-* 🐍 Desenvolvimento com Python
-* 🌐 Desenvolvimento Web com JavaScript
-* 🤖 Inteligência Artificial aplicada
-* 🔌 Integração com APIs
-* 🧩 Estruturação e documentação de projetos
-* 🗃️ Fundamentos de desenvolvimento de software
-
----
-
-## 🏆 Certificações e experiências
-
-* **Building Agentic AI Systems**
-* **Building AI Agents – Fundamentals to Advanced**
-* **Computer Vision in Microsoft Azure**
-* **Hackathon MGest 2026**
+Aqui ficam os projetos que construo enquanto estudo, os experimentos que realizo e as decisões que tomo ao longo do caminho.
 
 ---
 
-## 📈 Minha evolução
+📊 Contribuições
 
-Este perfil representa mais do que uma coleção de repositórios.
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=joaocardoso17&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" /><br><br>
 
-É um registro da minha evolução como desenvolvedor:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaocardoso17&theme=tokyonight&hide_border=true" /></div>---
 
-**estudar → construir → testar → errar → melhorar → documentar**
+📫 Onde me encontrar
 
-Novos projetos e experimentos serão adicionados conforme avanço na minha formação e carreira.
+<div align="center"><a href="https://www.linkedin.com/in/joaocardoso-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a><a href="mailto:joaocardev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Fale%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a></div>---
 
----
+<div align="center">💡 Transformando aprendizado em código.
 
-## 📫 Onde me encontrar
+<sub>João Cardoso • ADS • Python • JavaScript • Web • IA</sub>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/joaocardoso-dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:joaocardev@gmail.com)
 </div>
-
----
-
-### 💡 Sempre construindo, aprendendo e transformando ideias em código.
