@@ -61,7 +61,7 @@ Gosto de transformar o que estudo em projetos práticos, experimentando tecnolog
 
 **🎯 Foco:** Inteligência Artificial aplicada • APIs • Desenvolvimento de aplicações
 
-🔗 **[Ver projeto](COLOQUE_AQUI_O_LINK_DO_REPOSITORIO)**
+🔗 **[Ver projeto](https://github.com/joaocardoso17/imersao-alura)**
 
 <br>
 
@@ -75,11 +75,11 @@ Gosto de transformar o que estudo em projetos práticos, experimentando tecnolog
 
 > Solução desenvolvida como protótipo para representar e organizar processos relacionados a uma necessidade operacional real.
 
-**🔧 Tecnologias:** `ADICIONAR TECNOLOGIAS REAIS DO PROJETO`
+**🔧 Tecnologias:** `bolt.new`
 
 **🎯 Foco:** Desenvolvimento de software • Solução de problemas • Aplicação prática
 
-🔗 **[Ver projeto](COLOQUE_AQUI_O_LINK_DO_REPOSITORIO)**
+🔗 **[Ver projeto](https://aguaops-transagua.netlify.app)**
 
 <br>
 
@@ -172,3 +172,4 @@ Aplicações
 🤖 Inteligência Artificial aplicada
 🔌 APIs e integrações
 🧩 Fundamentos de desenvolvimento de software
+```
