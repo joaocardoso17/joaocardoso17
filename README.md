@@ -45,7 +45,7 @@ Gosto de transformar o que estudo em projetos práticos, experimentando tecnolog
 <div align="center">
 
 <!-- Adicione aqui uma screenshot do projeto -->
-<!-- <img src="./assets/conhecebol.png" width="800"> -->
+<img src="./conhecebol.png.png" width="800"> -->
 
 **Sistema interativo utilizando a API do Google Gemini**
 
@@ -70,7 +70,7 @@ Gosto de transformar o que estudo em projetos práticos, experimentando tecnolog
 <div align="center">
 
 <!-- Adicione aqui uma screenshot do projeto -->
-<!-- <img src="./assets/agua-ops.png" width="800"> -->
+ <img src="./agua-ops.png.png" width="800">
 
 **Protótipo de gestão operacional para o setor de saneamento**
 
