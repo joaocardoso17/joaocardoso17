@@ -1,5 +1,3 @@
-<!-- ========================= HEADER ========================= -->
-
 <div align="center">
 
 # 👋 Olá, eu sou João Cardoso
@@ -7,9 +5,7 @@
 ### 💻 Estudante de ADS • Python • JavaScript • Desenvolvimento Web • IA Aplicada
 
 <p>
-  <em>
-    Construindo projetos para transformar aprendizado em aplicações reais.
-  </em>
+  <em>Construindo projetos para transformar aprendizado em aplicações reais.</em>
 </p>
 
 <br>
@@ -19,9 +15,6 @@
 </a>
 <a href="mailto:joaocardev@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://github.com/joaocardoso17">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -47,27 +40,37 @@ Gosto de transformar o que estudo em projetos práticos, experimentando tecnolog
 
 # 🚀 Projetos em destaque
 
+## 🤖 Conhecebol
+
 <div align="center">
 
-## 🤖 Conhecebol
+<!-- Adicione aqui uma screenshot do projeto -->
+<!-- <img src="./assets/conhecebol.png" width="800"> -->
 
 **Sistema interativo utilizando a API do Google Gemini**
 
 </div>
 
-> Projeto desenvolvido para explorar aplicações práticas de Inteligência Artificial através de uma experiência interativa.
+> Projeto desenvolvido para explorar aplicações práticas de **Inteligência Artificial** através de uma experiência interativa.
 
-**🔧 Tecnologias:** Python • JavaScript • Gemini IA
+### 🔧 Tecnologias
 
-**🎯 Foco:** Inteligência Artificial aplicada • APIs • Desenvolvimento de aplicações
+`Python` `JavaScript` `Gemini API`
+
+### 🎯 Foco
+
+**IA aplicada • APIs • Desenvolvimento de aplicações**
 
 🔗 **[Ver projeto](https://conhecebol.vercel.app/)**
 
-<br>
+---
+
+## 💧 AGUA.OPS
 
 <div align="center">
 
-## 💧 AGUA.OPS
+<!-- Adicione aqui uma screenshot do projeto -->
+<!-- <img src="./assets/agua-ops.png" width="800"> -->
 
 **Protótipo de gestão operacional para o setor de saneamento**
 
@@ -75,23 +78,75 @@ Gosto de transformar o que estudo em projetos práticos, experimentando tecnolog
 
 > Solução desenvolvida como protótipo para representar e organizar processos relacionados a uma necessidade operacional real.
 
-**🔧 Tecnologias:** `bolt.new`
+### 🛠️ Ferramenta utilizada
 
-**🎯 Foco:** Desenvolvimento de software • Solução de problemas • Aplicação prática
+`Bolt.new`
+
+### 🎯 Foco
+
+**Desenvolvimento de software • Solução de problemas • Aplicação prática**
 
 🔗 **[Ver projeto](https://aguaops-transagua.netlify.app)**
 
-<br>
+---
 
 > 📌 **Mais projetos estão sendo desenvolvidos e documentados conforme avanço na minha formação.**
 
 ---
 
-# 🛠️ Tecnologias & Ferramentas
+# 🛠️ Tecnologias & Foco Atual
+
+<table align="center">
+<tr>
+
+<td align="center" width="200">
+
+### 🐍 Python
+
+Backend  
+Automação  
+APIs
+
+</td>
+
+<td align="center" width="200">
+
+### 🌐 Web
+
+JavaScript  
+HTML  
+CSS
+
+</td>
+
+<td align="center" width="200">
+
+### 🤖 IA
+
+Gemini  
+Agentes de IA  
+IA aplicada
+
+</td>
+
+<td align="center" width="200">
+
+### 🔌 APIs
+
+Integrações  
+Serviços  
+Aplicações
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-### 💻 Linguagens
+### 💻 Tecnologias que utilizo
 
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 
@@ -105,70 +160,45 @@ Gosto de transformar o que estudo em projetos práticos, experimentando tecnolog
 
 ---
 
-## 🧠 Áreas de interesse
+# 📚 Atualmente estudando
 
-<table align="center">
-<tr>
+- 🐍 **Python**
+- ⚡ **JavaScript**
+- 🌐 **Desenvolvimento Web**
+- 🤖 **Inteligência Artificial aplicada**
+- 🔌 **APIs e integrações**
+- 🧩 **Fundamentos de desenvolvimento de software**
 
-<td align="center" width="180">
-
-### 🐍
-
-**Python**
-
-Backend  
-Automação  
-APIs
-
-</td>
-
-<td align="center" width="180">
-
-### 🌐
-
-**Web**
-
-JavaScript  
-HTML  
-CSS
-
-</td>
-
-<td align="center" width="180">
-
-### 🤖
-
-**IA**
-
-Gemini  
-Agentes de IA  
-IA aplicada
-
-</td>
-
-<td align="center" width="180">
-
-### 🔌
-
-**APIs**
-
-Integrações  
-Serviços  
-Aplicações
-
-</td>
-
-</tr>
-</table>
+> **Estudar → Construir → Testar → Melhorar → Documentar**
 
 ---
 
-## 📚 Atualmente estudando
+# 🏆 Certificações & experiências
+
+| 🏅 | Certificação / Experiência |
+|---|---|
+| 🤖 | **Building Agentic AI Systems** |
+| 🧠 | **Building AI Agents – Fundamentals to Advanced** |
+| 👁️ | **Computer Vision in Microsoft Azure** |
+| 🚀 | **Hackathon MGest 2026** |
+
+---
+
+# 🌱 Em evolução
+
+Minha jornada em tecnologia é construída através da prática.
 
 ```text
-🐍 Python
-⚡ JavaScript
-🌐 Desenvolvimento Web
-🤖 Inteligência Artificial aplicada
-🔌 APIs e integrações
-🧩 Fundamentos de desenvolvimento de software
+        📚 ESTUDAR
+            ↓
+        💻 CONSTRUIR
+            ↓
+        🧪 TESTAR
+            ↓
+        🔍 ANALISAR
+            ↓
+        🔧 MELHORAR
+            ↓
+        📝 DOCUMENTAR
+            ↓
+        🚀 EVOLUIR
