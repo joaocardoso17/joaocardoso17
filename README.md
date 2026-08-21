@@ -30,7 +30,7 @@
 - 🐍 **Python**
 - ⚡ **JavaScript**
 - 🌐 **Desenvolvimento Web**
-- 🤖 **Inteligência Artificial aplicada**
+- 🤖 **Inteligência Artificial**
 
 Gosto de transformar o que estudo em projetos práticos, experimentando tecnologias, resolvendo problemas e documentando **não apenas o código, mas também as decisões por trás de cada projeto**.
 
@@ -44,7 +44,6 @@ Gosto de transformar o que estudo em projetos práticos, experimentando tecnolog
 
 <div align="center">
 
-<!-- Adicione aqui uma screenshot do projeto -->
 <img src="./conhecebol.png.png" width="800"> -->
 
 **Sistema interativo utilizando a API do Google Gemini**
@@ -69,7 +68,6 @@ Gosto de transformar o que estudo em projetos práticos, experimentando tecnolog
 
 <div align="center">
 
-<!-- Adicione aqui uma screenshot do projeto -->
  <img src="./agua-ops.png.png" width="800">
 
 **Protótipo de gestão operacional para o setor de saneamento**
@@ -125,7 +123,7 @@ CSS
 
 Gemini  
 Agentes de IA  
-IA aplicada
+IA em geral
 
 </td>
 
@@ -165,7 +163,7 @@ Aplicações
 - 🐍 **Python**
 - ⚡ **JavaScript**
 - 🌐 **Desenvolvimento Web**
-- 🤖 **Inteligência Artificial aplicada**
+- 🤖 **Inteligência Artificial**
 - 🔌 **APIs e integrações**
 - 🧩 **Fundamentos de desenvolvimento de software**
 
