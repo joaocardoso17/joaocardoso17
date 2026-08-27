@@ -44,7 +44,7 @@ Gosto de transformar o que estudo em projetos práticos, experimentando tecnolog
 
 <div align="center">
 
-<img src="./conhecebol.png.png" width="800"> -->
+<img src="./conhecebol.png.png" width="800">
 
 **Sistema interativo utilizando a API do Google Gemini**
 
