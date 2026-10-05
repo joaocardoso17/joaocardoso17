@@ -1,63 +1,126 @@
-
-<h1 align="center">Olá, eu sou o João Cardoso 👋</h1>
+<!-- HEADER -->
 
 <div align="center">
-<img width="480" height="480" alt="giphy" src="https://github.com/user-attachments/assets/1fed1423-3a46-4ba6-8b07-6d7981d7c2f5" />
+
+# 👋 Olá, eu sou João Cardoso
+
+### 🎓 Estudante de ADS | 💻 Desenvolvedor em formação
+
+**Desenvolvimento de Software • Desenvolvimento Web • Inteligência Artificial**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocardoso-dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaocardev@gmail.com)
+
 </div>
 
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação</h3>
+---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Python+%7C+JavaScript+%7C+HTML+%7C+CSS;Buscando+minha+primeira+oportunidade+de+est%C3%A1gio;Aprendendo+e+construindo+projetos+todos+os+dias" alt="Typing SVG" />
-</p>
+## 🧑‍💻 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas na Universidade Ceuma** e estou construindo meu caminho na área de tecnologia, com foco em **desenvolvimento de software e desenvolvimento web**.
+
+Atualmente, estudo **Python, JavaScript, HTML e CSS**, buscando transformar conhecimento em projetos práticos.
+
+Também venho estudando **Inteligência Artificial**, incluindo IA generativa, agentes de IA, visão computacional e análise de dados.
+
+🎯 **Objetivo atual:** buscar uma oportunidade de **estágio em Desenvolvimento de Software** e continuar evoluindo através de projetos e novos desafios.
+
+📍 São José de Ribamar, Maranhão, Brasil
 
 ---
 
-### 🚀 Sobre mim
+## 🛠️ Tecnologias & Ferramentas
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Ceuma e estou construindo meu caminho na área de tecnologia, com foco em **desenvolvimento de software** e **desenvolvimento web**.
+<div align="center">
 
-- 🔭 Atualmente estudando **Python, JavaScript, HTML e CSS**
-- 🌱 Aprendendo continuamente e transformando conhecimento em projetos práticos
-- 🏆 Participei de **Hackathons** e outras iniciativas de inovação e tecnologia
-- 🎯 Buscando minha **primeira oportunidade de estágio** em desenvolvimento
-- 💬 Aberto a oportunidades em Desenvolvimento de Software, Web e áreas relacionadas
-- 📍 São José de Ribamar, Maranhão, Brasil
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" />
+
+</div>
+
+<br>
+
+## 🚀 Projetos em destaque
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚽ Conhecebol
+
+Buscador interativo de jogadores da **Seleção Brasileira**, desenvolvido com **JavaScript** e busca dinâmica.
+
+**Tecnologias**
+
+`JavaScript, HTML5, CSS3, IA Gemini`
+
+🔗 **[Ver repositório](https://github.com/joaocardoso17/imersao-alura/)**
+
+</td>
+
+<td width="50%">
+
+### 🔗 Devlinks
+
+Agregador de links desenvolvido para meu perfil, reunindo links e uma **foto de perfil personalizada**.
+
+**Tecnologias**
+
+`JavaScript, HTML5, CSS3`
+
+🔗 **[Ver repositório](https://github.com/joaocardoso17/DevLinks/)**
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠️ Tecnologias e ferramentas
+## 🎓 Formação
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode" />
-</p>
+### Universidade Ceuma
 
----
+**Tecnólogo em Análise e Desenvolvimento de Sistemas**
 
-### 📜 Certificações
-
-- Machine Learning Dev (Universidade Ceuma)
-- HTML5 e CSS3: Módulo 1 de 5 (40 horas) - Curso em Vídeo
-- JavaScript [40 horas] - Curso em Vídeo
-- Discover - Rocketseat
-- Building Agentic AI Systems - Packt
-- Building AI Agents – Fundamentals to Advanced - Packt
-- Computer Vision in Microsoft Azure - Microsoft
-
+📅 Fevereiro de 2026 → Junho de 2028
 
 ---
 
-### 📫 Como me encontrar
+## 📜 Certificações
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/joaocardoso-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:joaocardev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+| Certificação | Instituição |
+|---|---|
+| 🤖 Machine Learning Dev | Universidade Ceuma |
+| 🌐 HTML5 e CSS3: Módulo 1 de 5 - 40 horas | Curso em Vídeo |
+| 💛 JavaScript: 40 horas | Curso em Vídeo |
+| 🚀 Discover | Rocketseat |
+| 🤖 Building Agentic AI Systems | Pakt |
+| 🧠 Building AI Agents - Fundamentals to Advanced | Pakt |
+| 👁️ Computer Vision in Microsoft Azure | Microsoft |
 
 ---
 
-<p align="center"><i>"Em constante aprendizado, buscando transformar conhecimento em prática e crescer junto com novos desafios."</i></p>
+## 📫 Vamos conversar?
+
+<div align="center">
+
+**Estou aberto a oportunidades de estágio em Desenvolvimento de Software.**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Cardoso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocardoso-dev/)
+
+[![Gmail](https://img.shields.io/badge/Email-joaocardev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaocardev@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Aprendendo, construindo e evoluindo.
+
+*Transformando conhecimento em projetos práticos e buscando novos desafios.*
+
+</div>
